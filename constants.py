@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Created by: Mr. Coxall
-# Created on: Sept 2020
+# Created by: Seti Ngabo
+# Created on: Sept 2021
 # This module contains constants for the pizza program
 LABOR = 0.75
 RENT = 1.00

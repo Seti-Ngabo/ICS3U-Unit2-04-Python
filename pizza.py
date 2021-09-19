@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Created by: Mr. Coxall
-# Created on: Sep 2020
+# Created by: Seti Ngabo
+# Created on: Sept 2021
 # This program calculates the cost of pizza
 
 import constants
