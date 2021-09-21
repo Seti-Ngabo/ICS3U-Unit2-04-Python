@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 # Created by: Seti Ngabo
 # Created on: Sept 2021
 # This program calculates the cost of pizza
@@ -23,7 +24,7 @@ def main():
     # output
     print("")
     print("The cost for a {0} inch pizza is ${1:,.2f}".format(diameter, total))
-    print("Done.")
+    print("\nDone.")
 
 
 if __name__ == "__main__":
